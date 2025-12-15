@@ -1,0 +1,5 @@
+{
+  "name": "QuizGen AI - Tạo Trắc Nghiệm Tức Thì",
+  "description": "Ứng dụng tạo bài kiểm tra trắc nghiệm tự động từ file (PDF, Word, TXT) bằng công nghệ Gemini AI. Giao diện hiện đại, phân tích chính xác, tùy chỉnh linh hoạt.",
+  "requestFramePermissions": []
+}
